@@ -1,0 +1,89 @@
+MORINGA 
+
+Component of Web Letracy
+
+- Read - Write - 
+
+=> DESIGN thinking
+
+-Product Design
+    - process of creting meaningful products for the customer.
+
+=> CIA
+    - CONFIDENTIALITY
+    - INTEGRITY
+    - AVAILABILITY
+
+-Design Journey
+    - Empathize with people 
+    - Define the problem
+    - ideate a solution
+    - Build a prototype
+    - Test the solution
+
+##UX User-Expirence
+
+- Persona'solution  
+    - Steps
+        - give a name
+        - identify role
+        - include vivid information
+
+    - Research 
+        - Total addressable market
+        - Servicable market
+        - 
+
+=> Contributing to Open Source
+    -Correct Mindset
+    -Choosing Technology
+    -Finding Projects
+    -Contribute
+
+Common Source For Lean Data
+    - Google anaytics
+    - Advertising systems
+    - E-commerce 
+    
+Types Of Behavioural Data
+
+    - Acquisition
+        - Organic Search keyword
+        - Paid media Data
+        - Referral Data
+    - Technical 
+        - Browser
+        - Mobile
+        - Screen resolution
+    - Engagement Data   
+        - Behavior flow 
+        - click Heat maps
+        - Screen resolution 
+Common Threats & Vulnerability
+    What is ?
+        - Threats = Serises of steps teken to attack 
+        - Vulnerability
+    - Common Threats`
+        - Social Engineering
+        - Phishing
+
+Social Engineering
+    - Talgating
+    - Quid pro Quo
+    - Baiting
+    - Pretexting
+
+Malware & Vulnerability
+    - Worms
+    - Virus
+    - Spyware
+    - Ransomware
+    - Key loggers
+
+Moringa Methodologist
+    Blended Learning.
+    Lecture Based.
+    Blended.=
+
+    1. I love what am doing and is to make work easy and efficient
+    2, Securing what am doing.
